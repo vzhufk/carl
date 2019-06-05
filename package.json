@@ -1,0 +1,16 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "description": "Just playground for JS stuff",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-modules --es-module-specifier-resolution=node index",
+    "test": "jest"
+  },
+  "author": "Vadym Zhufiak",
+  "license": "ISC",
+  "dependencies": {
+    "node-nlp": "^3.1.1"
+  }
+}
