@@ -8,5 +8,5 @@ Man, just:
 npm run start
 ```
 ### :construction_worker: How to customize:
-Ugh. TO make some changes in responses nd training process just opne folder: `lib/manager/train/`.
-And dowhatever you want to. Just dont mess it up.
+Ugh. To make some changes in responses and training process just open folder: `lib/manager/train/`.
+And do whatever you want to. Just dont mess it up.
